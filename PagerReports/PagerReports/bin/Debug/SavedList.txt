@@ -1,0 +1,56 @@
+4/28/2019 12:45:06 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 12:45:11 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:stat 3464
+4/28/2019 1:31:45 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 1:31:55 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:4458 perip. cult
+4/28/2019 1:36:30 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 1:36:35 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:2467 dr wants lactic timed for 0300 to be periph.
+4/28/2019 4:29:10 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 4:29:19 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:am labs- 3506 and 2537
+4/28/2019 4:30:12 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 4:30:18 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:cancel 3506
+4/28/2019 10:39:10 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 10:39:19 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:lactic and 1 blood culture in A8 please
+4/28/2019 10:44:26 AM  PGSched Message scheduled. Recipient: 927 from: Lab @billingsclinic.org
+4/28/2019 10:44:33 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:Lab @billingsclinic.org Msg:draw FBC rm 2159  for add on CBC
+4/28/2019 10:45:18 AM  PGSched Message scheduled. Recipient: 927 from: Lab @billingsclinic.org
+4/28/2019 10:45:27 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:Lab @billingsclinic.org Msg:draw rm 4473 for add on Mag and Phos
+4/28/2019 10:49:52 AM  PGSched Message scheduled. Recipient: 927 from: Lab @billingsclinic.org
+4/28/2019 10:49:58 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:Lab @billingsclinic.org Msg:draw rm 4456
+4/28/2019 10:55:26 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 10:55:33 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:bc's x 2 a4 please
+4/28/2019 10:59:32 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 10:59:38 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:stat inpt trop in A1 please
+4/28/2019 11:00:00 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 11:00:07 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:ED D5 Please
+4/28/2019 11:31:10 AM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 11:31:19 AM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:ED D5
+4/28/2019 1:14:44 PM  PGSched Message scheduled. Recipient: 927 from: 1500@billingsclinic.org
+4/28/2019 1:14:58 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:1500@billingsclinic.org Msg:Blood draw in ED triage room T3
+4/28/2019 1:26:43 PM  PGSched Message scheduled. Recipient: 927 from: 1550@billingsclinic.org
+4/28/2019 1:26:45 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:1550@billingsclinic.org Msg:cancel lab draw in ED triage
+4/28/2019 1:30:12 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 1:30:17 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:REDRAW PURPLE EMR
+4/28/2019 3:13:31 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 3:13:37 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:R DRAW 2518
+4/28/2019 3:51:58 PM  PGSched Message scheduled. Recipient: 927 from: LAB-MARIAH@billingsclinic.org
+4/28/2019 3:52:08 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:LAB-MARIAH@billingsclinic.org Msg:DRAW 2501
+4/28/2019 5:20:48 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 5:20:58 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:blood cultures 2515
+4/28/2019 6:00:20 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 6:00:29 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:stat draw 2469
+4/28/2019 6:52:31 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 6:52:41 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:stat draw 2137
+4/28/2019 7:26:55 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 7:27:01 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:stat draw 4537
+4/28/2019 8:02:52 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 8:02:59 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:timed draw 2469
+4/28/2019 8:32:37 PM  PGSched Message scheduled. Recipient: 927 from: lab-mariah@billingsclinic.org
+4/28/2019 8:32:44 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:lab-mariah@billingsclinic.org Msg:timed draw 3463
+4/28/2019 9:20:53 PM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 9:21:01 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:stat 2135
+4/28/2019 10:15:22 PM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 10:15:34 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:stat 3533
+4/28/2019 10:55:41 PM  PGSched Message scheduled. Recipient: 927 from: @billingsclinic.org
+4/28/2019 10:55:45 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:@billingsclinic.org Msg:2473 now per dr
+4/28/2019 11:28:43 PM  PGSched Message scheduled. Recipient: 927 from: hannah@billingsclinic.org
+4/28/2019 11:28:49 PM  PGDial1 SUCCESSFUL Stn:2 To:927 Frm:hannah@billingsclinic.org Msg:timed 2469

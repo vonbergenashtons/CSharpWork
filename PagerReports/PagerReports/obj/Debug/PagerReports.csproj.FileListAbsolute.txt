@@ -1,0 +1,6 @@
+C:\Users\vonbea\source\repos\PagerReports\PagerReports\bin\Debug\PagerReports.exe.config
+C:\Users\vonbea\source\repos\PagerReports\PagerReports\bin\Debug\PagerReports.exe
+C:\Users\vonbea\source\repos\PagerReports\PagerReports\bin\Debug\PagerReports.pdb
+C:\Users\vonbea\source\repos\PagerReports\PagerReports\obj\Debug\PagerReports.csproj.CoreCompileInputs.cache
+C:\Users\vonbea\source\repos\PagerReports\PagerReports\obj\Debug\PagerReports.exe
+C:\Users\vonbea\source\repos\PagerReports\PagerReports\obj\Debug\PagerReports.pdb
