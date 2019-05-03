@@ -1,0 +1,6 @@
+C:\Users\vonbea\source\repos\Codecademy_Practice\Codecademy_Practice\bin\Debug\Codecademy_Practice.exe.config
+C:\Users\vonbea\source\repos\Codecademy_Practice\Codecademy_Practice\bin\Debug\Codecademy_Practice.exe
+C:\Users\vonbea\source\repos\Codecademy_Practice\Codecademy_Practice\bin\Debug\Codecademy_Practice.pdb
+C:\Users\vonbea\source\repos\Codecademy_Practice\Codecademy_Practice\obj\Debug\Codecademy_Practice.csproj.CoreCompileInputs.cache
+C:\Users\vonbea\source\repos\Codecademy_Practice\Codecademy_Practice\obj\Debug\Codecademy_Practice.exe
+C:\Users\vonbea\source\repos\Codecademy_Practice\Codecademy_Practice\obj\Debug\Codecademy_Practice.pdb
