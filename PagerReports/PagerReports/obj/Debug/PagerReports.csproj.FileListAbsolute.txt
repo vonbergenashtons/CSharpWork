@@ -4,3 +4,14 @@ C:\Users\vonbea\source\repos\PagerReports\PagerReports\bin\Debug\PagerReports.pd
 C:\Users\vonbea\source\repos\PagerReports\PagerReports\obj\Debug\PagerReports.csproj.CoreCompileInputs.cache
 C:\Users\vonbea\source\repos\PagerReports\PagerReports\obj\Debug\PagerReports.exe
 C:\Users\vonbea\source\repos\PagerReports\PagerReports\obj\Debug\PagerReports.pdb
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\bin\Debug\PagerReports.exe.config
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\bin\Debug\PagerReports.exe
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\bin\Debug\PagerReports.pdb
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\obj\Debug\PagerReports.csproj.CoreCompileInputs.cache
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\obj\Debug\PagerReports.exe
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\obj\Debug\PagerReports.pdb
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\bin\Debug\PagerReports.exe.manifest
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\bin\Debug\PagerReports.application
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\obj\Debug\PagerReports.csprojAssemblyReference.cache
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\obj\Debug\PagerReports.exe.manifest
+C:\Users\vonbea\Source\Repos\CSharpWork\PagerReports\PagerReports\obj\Debug\PagerReports.application

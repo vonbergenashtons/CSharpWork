@@ -65,10 +65,12 @@ namespace PagerReports
 
                 Console.Write("\nRun additional reports? (y/n): ");
                 exitInput = Console.ReadLine();
+                Console.WriteLine();
 
                 if (exitInput == "y" || exitInput == "Y" || exitInput == "yes" || exitInput == "Yes")
                 {
                     exitState = false;
+                    foundLines.Clear();
                 }
                 else
                 {
